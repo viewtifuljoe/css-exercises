@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.both {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", serif;
+}
+
+.both.click1 {
+    background-color: black;
+    color: white;
+}
+
+.both.click2 {
+    background-color: yellow;
+}
